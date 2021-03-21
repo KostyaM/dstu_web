@@ -1,0 +1,23 @@
+body{
+    background:url(picture.gif) no-repeat #33CCFF center top;
+    color:yellow;
+    font-family: Verdana, sans-serif;
+}
+h1 {
+    color:red;
+}
+h2 {
+    color:rgb(255,0,0);
+}
+p#sn, p#so, p#si {
+    font-family: Verdana, sans-serif;
+}
+p#sn {
+    font-style:normal;
+}
+p#so {
+    font-style:oblique;
+}
+p#si {
+    font-style:italic;
+}
