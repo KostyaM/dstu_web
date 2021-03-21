@@ -1,5 +1,10 @@
 body {
-    color:green;
+    background-image:url(insane.jpg);
+    background-color:#243CED;
+    color:yellow;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position:10% 30%;
 }
 h1 {
     color:red;
